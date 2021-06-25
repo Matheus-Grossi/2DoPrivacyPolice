@@ -11,7 +11,7 @@ No entanto, informações (como o ID de publicidade do dispositivo) e estatísti
 
 2. Links para outros websites
 
-O Aplicativo possui links que redirecionam o usuário a websites terceiros. O Aplicativo não possui nenhuma responsabilidade sobre os termos de uso e nem sobre as políticas de privacidade de tais websites.
+O Aplicativo possui links que direcionam o usuário a websites de terceiros. O Aplicativo não possui nenhuma responsabilidade sobre os termos de uso e nem sobre as políticas de privacidade de tais websites.
 Link para os termos de uso (AdMob): https://policies.google.com/terms?hl=en
 Link para a política de privacidade (AdMob): https://policies.google.com/privacy?hl=en 
 
